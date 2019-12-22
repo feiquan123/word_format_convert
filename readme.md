@@ -46,5 +46,10 @@ Chinese to Pinyin,symbol,number,char,string or word  uniform format
         ```
   
  1. ## ENV
- 
-    > python 3
+    
+    - python version
+        > python 3
+                       
+    - how to install
+        > python setup.py install
+    
